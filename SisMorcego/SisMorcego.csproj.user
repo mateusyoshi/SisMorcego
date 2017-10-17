@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>4_WVGA_Nexus_S_API_25</SelectedDevice>
     <DefaultDevice>4_WVGA_Nexus_S_API_25</DefaultDevice>
+    <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
   </PropertyGroup>
 </Project>
