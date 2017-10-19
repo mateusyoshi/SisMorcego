@@ -1,0 +1,8 @@
+SisMorcego.MainActivity, SisMorcego;md592b22d68bf21b6772f14a94154092bc4.MainActivity
+SisMorcego.MainActivity, SisMorcego, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592b22d68bf21b6772f14a94154092bc4.MainActivity
+SisMorcego.MainActivity;md592b22d68bf21b6772f14a94154092bc4.MainActivity
+sismorcego.MainActivity;md592b22d68bf21b6772f14a94154092bc4.MainActivity
+SisMorcego.NewActivity, SisMorcego;md592b22d68bf21b6772f14a94154092bc4.NewActivity
+SisMorcego.NewActivity, SisMorcego, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592b22d68bf21b6772f14a94154092bc4.NewActivity
+SisMorcego.NewActivity;md592b22d68bf21b6772f14a94154092bc4.NewActivity
+sismorcego.NewActivity;md592b22d68bf21b6772f14a94154092bc4.NewActivity
