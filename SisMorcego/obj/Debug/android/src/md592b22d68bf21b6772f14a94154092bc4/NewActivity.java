@@ -16,7 +16,7 @@ public class NewActivity
 	}
 
 
-	public NewActivity ()
+	public NewActivity () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == NewActivity.class)

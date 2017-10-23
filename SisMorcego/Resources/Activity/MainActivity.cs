@@ -34,7 +34,7 @@ namespace SisMorcego
 
         private void _button4_Click(object sender, System.EventArgs e)
         {
-            StartActivity(typeof(NewActivity));
+            StartActivity(typeof(ActRegistroH));
         }
 
         private void Button_Click(object sender, System.EventArgs e)

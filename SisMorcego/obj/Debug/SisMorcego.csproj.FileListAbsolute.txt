@@ -11,9 +11,6 @@ C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\main.xml
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\values\strings.xml
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\R.cs.flag
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\uploadflags.txt
-C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\bin\Debug\SisMorcego.dll.mdb
-C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\android\assets\SisMorcego.dll.mdb
-C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\layout2.xml
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\bin\Debug\SisMorcego.dll
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\bin\Debug\SisMorcego.pdb
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\bin\Debug\SisMorcego.SisMorcego.apk
@@ -34,3 +31,10 @@ C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\layout\regi
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\layout\equipe.xml
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\layout\registroa.xml
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\layout\raiva.xml
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\registroh.xml
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\equipe.xml
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\registroa.xml
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\raiva.xml
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\sismorc.png
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\bin\Debug\SisMorcego.dll.mdb
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\android\assets\SisMorcego.dll.mdb

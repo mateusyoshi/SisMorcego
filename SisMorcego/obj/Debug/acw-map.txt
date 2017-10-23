@@ -1,3 +1,11 @@
+SisMorcego.DatePickerFragment, SisMorcego;md592b22d68bf21b6772f14a94154092bc4.DatePickerFragment
+SisMorcego.DatePickerFragment, SisMorcego, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592b22d68bf21b6772f14a94154092bc4.DatePickerFragment
+SisMorcego.DatePickerFragment;md592b22d68bf21b6772f14a94154092bc4.DatePickerFragment
+sismorcego.DatePickerFragment;md592b22d68bf21b6772f14a94154092bc4.DatePickerFragment
+SisMorcego.ActRegistroH, SisMorcego;md592b22d68bf21b6772f14a94154092bc4.ActRegistroH
+SisMorcego.ActRegistroH, SisMorcego, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592b22d68bf21b6772f14a94154092bc4.ActRegistroH
+SisMorcego.ActRegistroH;md592b22d68bf21b6772f14a94154092bc4.ActRegistroH
+sismorcego.ActRegistroH;md592b22d68bf21b6772f14a94154092bc4.ActRegistroH
 SisMorcego.MainActivity, SisMorcego;md592b22d68bf21b6772f14a94154092bc4.MainActivity
 SisMorcego.MainActivity, SisMorcego, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md592b22d68bf21b6772f14a94154092bc4.MainActivity
 SisMorcego.MainActivity;md592b22d68bf21b6772f14a94154092bc4.MainActivity

@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>19/10/2017 13:14:32</xs:documentation>
+    <xs:documentation>23/10/2017 11:19:22</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -12,8 +12,11 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/layout2" />
+            <xs:enumeration value="@layout/equipe" />
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/raiva" />
+            <xs:enumeration value="@layout/registroa" />
+            <xs:enumeration value="@layout/registroh" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -61,8 +64,11 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/layout2" />
+            <xs:enumeration value="@layout/equipe" />
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/raiva" />
+            <xs:enumeration value="@layout/registroa" />
+            <xs:enumeration value="@layout/registroh" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -110,8 +116,11 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/layout2" />
+            <xs:enumeration value="@layout/equipe" />
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/raiva" />
+            <xs:enumeration value="@layout/registroa" />
+            <xs:enumeration value="@layout/registroh" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
@@ -159,8 +168,11 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="@layout/layout2" />
+            <xs:enumeration value="@layout/equipe" />
             <xs:enumeration value="@layout/main" />
+            <xs:enumeration value="@layout/raiva" />
+            <xs:enumeration value="@layout/registroa" />
+            <xs:enumeration value="@layout/registroh" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
             <xs:enumeration value="@android:layout/expandable_list_content" />
