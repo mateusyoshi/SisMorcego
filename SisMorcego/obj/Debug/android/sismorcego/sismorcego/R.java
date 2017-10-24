@@ -11,16 +11,42 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int sismorc=0x7f020000;
+        public static final int brendo=0x7f020000;
+        public static final int calendario_pastoral=0x7f020001;
+        public static final int carol=0x7f020002;
+        public static final int diego=0x7f020003;
+        public static final int elane=0x7f020004;
+        public static final int etiene=0x7f020005;
+        public static final int fotosamara=0x7f020006;
+        public static final int fundo=0x7f020007;
+        public static final int imgcamera=0x7f020008;
+        public static final int isis=0x7f020009;
+        public static final int karina=0x7f02000a;
+        public static final int kely=0x7f02000b;
+        public static final int log=0x7f02000c;
+        public static final int marcela=0x7f02000d;
+        public static final int mateus=0x7f02000e;
+        public static final int nailde=0x7f02000f;
+        public static final int printbold_tt=0x7f020010;
+        public static final int ruth=0x7f020011;
+        public static final int seruffo=0x7f020012;
+        public static final int sismorc=0x7f020013;
     }
     public static final class id {
-        public static final int button1=0x7f050000;
         public static final int button2=0x7f050001;
         public static final int button3=0x7f050002;
-        public static final int button4=0x7f050003;
+        public static final int button4=0x7f050000;
         public static final int button6=0x7f050006;
-        public static final int imageView1=0x7f050004;
+        public static final int button7=0x7f050009;
+        public static final int editText1=0x7f050004;
+        public static final int editText2=0x7f050007;
+        public static final int imageView1=0x7f050003;
+        public static final int radioButton1=0x7f05000c;
+        public static final int radioButton2=0x7f05000d;
+        public static final int radioGroup1=0x7f05000b;
         public static final int textView0=0x7f050005;
+        public static final int textView1=0x7f050008;
+        public static final int textView2=0x7f05000a;
     }
     public static final class layout {
         public static final int equipe=0x7f030000;

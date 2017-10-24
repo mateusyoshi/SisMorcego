@@ -38,3 +38,22 @@ C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\layout\raiva.xml
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\sismorc.png
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\bin\Debug\SisMorcego.dll.mdb
 C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\android\assets\SisMorcego.dll.mdb
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\fundo.png
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\kely.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\karina.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\marcela.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\seruffo.gif
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\ruth.jpeg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\diego.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\mateus.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\isis.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\brendo.jpeg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\carol.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\nailde.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\etiene.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\fotosamara.gif
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\elane.jpg
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\log.png
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\imgcamera.png
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\calendario_pastoral.png
+C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\printbold_tt.ttf

@@ -15,17 +15,14 @@ namespace SisMorcego
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            Button _button1;
             Button _button2;
             Button _button3;
             Button _button4;
 
-            _button1 = FindViewById<Button>(Resource.Id.button1); // button1 is the name of your button in layout
             _button2 = FindViewById<Button>(Resource.Id.button2); // button2 is the name of your button in layout
             _button3 = FindViewById<Button>(Resource.Id.button3); // button3 is the name of your button in layout
             _button4 = FindViewById<Button>(Resource.Id.button4);
 
-            _button1.Click += Button_Click;
             _button2.Click += Button_Click;
             _button3.Click += Button_Click;
             _button4.Click += _button4_Click;

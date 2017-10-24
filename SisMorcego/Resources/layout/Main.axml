@@ -2,27 +2,42 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/Fundo">
     <Button
-        android:text="Button"
+        android:text="Registro Humano"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textSize="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:id="@+id/button4"
+        android:layout_marginTop="50px"
+        android:background="@android:color/transparent"
+        android:textColor="#000000"
+        android:bufferType="normal" />
     <Button
-        android:text="Button"
+        android:text="Raiva"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textSize="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button2" />
+        android:id="@+id/button2"
+        android:background="@android:color/transparent"
+        android:textColor="#000000"
+        android:bufferType="normal" />
     <Button
-        android:text="Button"
+        android:text="Equipe"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textSize="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button3" />
-    <Button
-        android:text="Button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button4" />
+        android:id="@+id/button3"
+        android:background="@android:color/transparent"
+        android:textColor="#000000"
+        android:bufferType="normal" />
     <ImageView
         android:src="@drawable/sismorc"
         android:layout_width="wrap_content"

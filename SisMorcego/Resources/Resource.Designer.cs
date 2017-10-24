@@ -45,7 +45,64 @@ namespace SisMorcego
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int SISmorc = 2130837504;
+			public const int brendo = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int calendario_pastoral = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int carol = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int diego = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int elane = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int etiene = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int fotosamara = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int Fundo = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int imgcamera = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int isis = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int karina = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int kely = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int log = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int marcela = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int mateus = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int nailde = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int PrintBold_TT = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int ruth = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int seruffo = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int SISmorc = 2130837523;
 			
 			static Drawable()
 			{
@@ -60,26 +117,47 @@ namespace SisMorcego
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int button1 = 2131034112;
-			
 			// aapt resource value: 0x7f050001
 			public const int button2 = 2131034113;
 			
 			// aapt resource value: 0x7f050002
 			public const int button3 = 2131034114;
 			
-			// aapt resource value: 0x7f050003
-			public const int button4 = 2131034115;
+			// aapt resource value: 0x7f050000
+			public const int button4 = 2131034112;
 			
 			// aapt resource value: 0x7f050006
 			public const int button6 = 2131034118;
 			
+			// aapt resource value: 0x7f050009
+			public const int button7 = 2131034121;
+			
 			// aapt resource value: 0x7f050004
-			public const int imageView1 = 2131034116;
+			public const int editText1 = 2131034116;
+			
+			// aapt resource value: 0x7f050007
+			public const int editText2 = 2131034119;
+			
+			// aapt resource value: 0x7f050003
+			public const int imageView1 = 2131034115;
+			
+			// aapt resource value: 0x7f05000c
+			public const int radioButton1 = 2131034124;
+			
+			// aapt resource value: 0x7f05000d
+			public const int radioButton2 = 2131034125;
+			
+			// aapt resource value: 0x7f05000b
+			public const int radioGroup1 = 2131034123;
 			
 			// aapt resource value: 0x7f050005
 			public const int textView0 = 2131034117;
+			
+			// aapt resource value: 0x7f050008
+			public const int textView1 = 2131034120;
+			
+			// aapt resource value: 0x7f05000a
+			public const int textView2 = 2131034122;
 			
 			static Id()
 			{
