@@ -57,3 +57,22 @@ C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\lo
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\imgcamera.png
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\calendario_pastoral.png
 C:\Users\Mateus\Videos\Documents\SisMorcego\SisMorcego\obj\Debug\res\drawable\printbold_tt.ttf
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\printbold_tt.ttf
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\fundo.png
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\kely.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\karina.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\marcela.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\seruffo.gif
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\ruth.jpeg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\diego.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\mateus.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\isis.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\brendo.jpeg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\carol.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\nailde.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\etiene.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\fotosamara.gif
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\elane.jpg
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\log.png
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\imgcamera.png
+C:\Users\waves\Projetos Git\SisMorcego\SisMorcego\obj\Debug\res\drawable\calendario_pastoral.png

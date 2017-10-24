@@ -16,7 +16,7 @@ public class ActRegistroH
 	}
 
 
-	public ActRegistroH ()
+	public ActRegistroH () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == ActRegistroH.class)

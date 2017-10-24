@@ -18,7 +18,7 @@ public class DatePickerFragment
 	}
 
 
-	public DatePickerFragment ()
+	public DatePickerFragment () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == DatePickerFragment.class)

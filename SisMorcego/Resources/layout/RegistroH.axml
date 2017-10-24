@@ -11,7 +11,8 @@
         android:layout_height="fill_parent"
         android:id="@+id/scrollView1">
         <TableLayout
-            android:layout_width="match_parent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
             android:stretchColumns="1">
             <EditText
                 android:inputType="textPersonName"
@@ -71,7 +72,7 @@
             <TextView
                 android:text="Sexo"
                 android:textColor="#000000"
-                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textAppearance="android:attr/textAppearanceMedium"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView2"
